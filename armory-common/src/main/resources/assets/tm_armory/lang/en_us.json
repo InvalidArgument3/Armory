@@ -1,419 +1,285 @@
 {
     "miapi.slot.helmet.name": "Empty Helmet Slot",
-
     "miapi.slot.frontplate.name": "Empty Frontplate Slot",
     "miapi.slot.backplate.name": "Empty Backplate Slot",
     "miapi.slot.arm_left.name": "Empty Left Arm Slot",
     "miapi.slot.arm_right.name": "Empty Right Arm Slot",
-
     "tm_armory.material_indication.default.tier": "Increases Armor Toughness",
     "tm_armory.material_indication.default.armor_points": "Directly increases Armor Points",
-
     "tm_armory.material_indication.chain.flexibility": "Decreases Armor Points, but increases Projectile Armor",
-
     "tm_armory.material_indication.scuba.hardness": "Increases Armor",
     "tm_armory.material_indication.scuba.flexibility": "Increases Swim Speed and negatively impacts Armor",
     "tm_armory.material_indication.scuba.density": "Negatively impacts Swim Speed",
-    
     "tm_armory.material_indication.wing.flexibility": "Negatively impacts Armor, but strongly increases Glide Efficiency",
     "tm_armory.material_indication.wing.density": "Negatively impacts Glide Efficiency",
-
     "tm_armory.material_indication.heavy.density": "Decreases Swim and Elytra Speed, increases Exhaustion",
     "tm_armory.material_indication.heavy.flexibility": "Decreases Armor Points",
     "tm_armory.material_indication.armor.tier": "Sets Knockback Resistance and Armor Toughness",
-
     "miapi.material_group.gem_armor": "Armor Gemstones",
-
     "miapi.material_stat.toughness": "Toughness",
-
-    "miapi.skin.tm_armory.name.pride-armor_1": "Aurora Tinted",
-    "miapi.skin.tm_armory.name.pride-armor_2": "Chromatic Armor",
-    "miapi.skin.tm_armory.name.pride-armor_3": "Luminous",
-    "miapi.skin.tm_armory.name.pride-armor_4": "Radiant Spectrum",
-    "miapi.skin.tm_armory.name.pride-armor_5": "Gleaming Pride",
-    "miapi.skin.tm_armory.name.pride-armor_ace": "Aceplate Armor",
-    "miapi.skin.tm_armory.name.pride-armor_bi": "Bi-Spectrum Armor",
-    "miapi.skin.tm_armory.name.pride-armor_gay": "Gay Guardian",
-    "miapi.skin.tm_armory.name.pride-armor_lesbian": "Lesbian Luminary",
-    "miapi.skin.tm_armory.name.pride-armor_nb": "Non-Binary Brilliance",
-    "miapi.skin.tm_armory.name.pride-armor_trans": "Transcendent Shield",
-
-    "miapi.skin.tm_armory.name.pride-wing.1": "Iridescent Plume",
-    "miapi.skin.tm_armory.name.pride-wing.2": "Spectrum Wings",
-    "miapi.skin.tm_armory.name.pride-wing.3": "Rainbow Feathers",
-    "miapi.skin.tm_armory.name.pride-wing.4": "Prismatic Ascension",
-    "miapi.skin.tm_armory.name.pride-wing.5": "Celestial Radiance",
-    "miapi.skin.tm_armory.name.pride-wing.ace": "Ace Wings",
-    "miapi.skin.tm_armory.name.pride-wing.bi": "Bi-Bright Wings",
-    "miapi.skin.tm_armory.name.pride-wing.gay": "Gay Gleam",
-    "miapi.skin.tm_armory.name.pride-wing.lesbian": "Lesbian Lift",
-    "miapi.skin.tm_armory.name.pride-wing.nb": "Non-Binary Nimbus",
-    "miapi.skin.tm_armory.name.pride-wing.trans": "Trans Wings",
-
     "miapi.slot.belt.name": "Empty Belt Slot",
     "miapi.slot.leg_left.name": "Empty Left Leg Slot",
     "miapi.slot.leg_right.name": "Empty Right Leg Slot",
-
     "miapi.slot.boot_left.name": "Empty Left Boot Slot",
     "miapi.slot.boot_right.name": "Empty Right Boot Slot",
-
     "miapi.slot.chest_center.name": "Chest Cosmetic Slot",
     "miapi.slot.chest_back_center.name": "Backplate Cosmetic Slot",
     "miapi.slot.arm_patch.name": "Arm Patch Slot",
     "miapi.slot.hat.name": "Hat Slot",
-
     "miapi.slot.tm_armory.wing_left.name": "Left Wing Slot",
     "miapi.slot.tm_armory.wing_right.name": "Right Wing Slot",
-
     "miapi.underboot.lore": "Socks, basis for Modular Boots",
     "miapi.underpants.lore": "Underpants, basis for Modular Leggings",
     "miapi.underchest.lore": "Undershirt, a basis for modular Chestplate",
     "miapi.underhelmet.lore": "Underhelmet, the basis for Modular Helmets",
-
     "miapi.module.tm_armory.armor.boots": "Socks",
     "miapi.module.tm_armory.armor.boots.name": "Socks",
     "miapi.module.tm_armory.armor.boots.description": "Socks to keep your Boots on",
-
     "miapi.module.tm_armory.armor.pants": "Underpants",
     "miapi.module.tm_armory.armor.pants.name": "Underpants",
     "miapi.module.tm_armory.armor.pants.description": "Underpants to keep your Leggings on",
-
     "miapi.module.tm_armory.armor.chestplate": "Undershirt",
     "miapi.module.tm_armory.armor.chestplate.name": "Undershirt",
     "miapi.module.tm_armory.armor.chestplate.description": "Undershirt to hold your Chestplate up",
-
     "miapi.module.tm_armory.armor.helmet": "Underhelmet",
     "miapi.module.tm_armory.armor.helmet.name": "Underhelmet",
     "miapi.module.tm_armory.armor.helmet.description": "A Small piece on your Head to hold the Helmet",
-
-
-
     "miapi.module.tm_armory.armor.default.boot_left": "Left Boot",
     "miapi.module.tm_armory.armor.default.boot_left.name": "%s Boots",
     "miapi.module.tm_armory.armor.default.boot_left.description": "The Left Boot protecting your Left Foot",
-
     "miapi.module.tm_armory.armor.default.boot_right": "Right Boot",
     "miapi.module.tm_armory.armor.default.boot_right.name": "%s Boots",
     "miapi.module.tm_armory.armor.default.boot_right.description": "The Right Boot protecting your Right Foot",
-
     "miapi.module.tm_armory.armor.default.leg_left": "Left Pants",
     "miapi.module.tm_armory.armor.default.leg_left.name": "%s Left Pants",
     "miapi.module.tm_armory.armor.default.leg_left.description": "The Left Pant protecting your Left Leg",
-
     "miapi.module.tm_armory.armor.default.leg_right": "Right Pants",
     "miapi.module.tm_armory.armor.default.leg_right.name": "%s Right Pants",
     "miapi.module.tm_armory.armor.default.leg_right.description": "The Right Pant protecting your Right Leg",
-
     "miapi.module.tm_armory.armor.default.belt": "Belt",
     "miapi.module.tm_armory.armor.default.belt.name": "%s Leggings",
     "miapi.module.tm_armory.armor.default.belt.description": "A piece to protect your underbelly and keep your Pants high",
-
     "miapi.module.tm_armory.armor.default.arm_left": "Left Arm Pauldron",
     "miapi.module.tm_armory.armor.default.arm_left.name": "%s Left Arm Pauldron",
     "miapi.module.tm_armory.armor.default.arm_left.description": "A piece of Armor to protect your Left Arm",
-
     "miapi.module.tm_armory.armor.default.arm_right": "Right Arm Pauldron",
     "miapi.module.tm_armory.armor.default.arm_right.name": "%s Right Arm Pauldron",
     "miapi.module.tm_armory.armor.default.arm_right.description": "A piece of Armor to protect your Right Arm",
-
     "miapi.module.tm_armory.armor.default.front_chest": "Chestplate",
     "miapi.module.tm_armory.armor.default.front_chest.name": "%s Chestplate",
     "miapi.module.tm_armory.armor.default.front_chest.description": "A piece of Armor to protect your Chest",
-
     "miapi.module.tm_armory.armor.default.back_chest": "Backplate",
     "miapi.module.tm_armory.armor.default.back_chest.name": "%s Backplate",
     "miapi.module.tm_armory.armor.default.back_chest.description": "A piece of Armor to protect your Back",
-
     "miapi.module.tm_armory.armor.default.helmet": "Helmet",
     "miapi.module.tm_armory.armor.default.helmet.name": "%s Helmet",
     "miapi.module.tm_armory.armor.default.helmet.description": "A plated piece of Armor to protect your Head",
-
-
     "miapi.module.tm_armory.armor.heavy.boot_left": "Heavy Left Boot",
     "miapi.module.tm_armory.armor.heavy.boot_left.name": "%s Heavy Boots",
     "miapi.module.tm_armory.armor.heavy.boot_left.description": "A Heavy Boot with increased Protection, but makes Swimming harder",
-
     "miapi.module.tm_armory.armor.heavy.boot_right": "Heavy Right Boot",
     "miapi.module.tm_armory.armor.heavy.boot_right.name": "%s Heavy Boots",
     "miapi.module.tm_armory.armor.heavy.boot_right.description": "A Heavy Boot with increased Protection, but makes Swimming harder",
-
     "miapi.module.tm_armory.armor.heavy.leg_left": "Heavy Left Pants",
     "miapi.module.tm_armory.armor.heavy.leg_left.name": "%s Heavy Left Pants",
     "miapi.module.tm_armory.armor.heavy.leg_left.description": "A Left Heavy Pant to protect your Left Leg",
-
     "miapi.module.tm_armory.armor.heavy.leg_right": "Heavy Right Pants",
     "miapi.module.tm_armory.armor.heavy.leg_right.name": "%s Heavy Right Pants",
     "miapi.module.tm_armory.armor.heavy.leg_right.description": "A Left Heavy Pant to protect your Left Leg",
-
     "miapi.module.tm_armory.armor.heavy.belt": "Heavy Belt",
     "miapi.module.tm_armory.armor.heavy.belt.name": "%s Heavy Leggings",
     "miapi.module.tm_armory.armor.heavy.belt.description": "A Heavy Belt hindering Swimming",
-
     "miapi.module.tm_armory.armor.heavy.arm_left": "Left Heavy Pauldron",
     "miapi.module.tm_armory.armor.heavy.arm_left.name": "%s Left Heavy Pauldron",
     "miapi.module.tm_armory.armor.heavy.arm_left.description": "A Heavy Piece to protect your Left Arm",
-
     "miapi.module.tm_armory.armor.heavy.arm_right": "Right Heavy Pauldron",
     "miapi.module.tm_armory.armor.heavy.arm_right.name": "%s Right Heavy Pauldron",
     "miapi.module.tm_armory.armor.heavy.arm_right.description": "A Heavy Piece to protect your Right Arm",
-
     "miapi.module.tm_armory.armor.heavy.front_chest": "Heavy Chestplate",
     "miapi.module.tm_armory.armor.heavy.front_chest.name": "%s Heavy Chestplate",
     "miapi.module.tm_armory.armor.heavy.front_chest.description": "A Heavy Chestplate providing increased Protection",
-
     "miapi.module.tm_armory.armor.heavy.back_chest": "Heavy Backplate",
     "miapi.module.tm_armory.armor.heavy.back_chest.name": "%s Heavy Backplate",
     "miapi.module.tm_armory.armor.heavy.back_chest.description": "A Heavy Backplate providing increased Protection",
-
     "miapi.module.tm_armory.armor.heavy.helmet": "Heavy Helmet",
     "miapi.module.tm_armory.armor.heavy.helmet.name": "%s Heavy Helmet",
     "miapi.module.tm_armory.armor.heavy.helmet.description": "A Heavy Helmet with improved Armor",
-
-
-
     "miapi.module.tm_armory.armor.chain_crafted.boot_left": "Left Chainmail Boot",
     "miapi.module.tm_armory.armor.chain_crafted.boot_left.name": "%s Chainmail Boots",
     "miapi.module.tm_armory.armor.chain_crafted.boot_left.description": "The Left Boot protecting your Left Foot",
-
     "miapi.module.tm_armory.armor.chain_crafted.boot_right": "Right Chainmail Boot",
     "miapi.module.tm_armory.armor.chain_crafted.boot_right.name": "%s Chainmail Boots",
     "miapi.module.tm_armory.armor.chain_crafted.boot_right.description": "A Chainmail Boot protecting your Right Foot",
-
     "miapi.module.tm_armory.armor.chain_crafted.leg_left": "Left Chainmail Pants",
     "miapi.module.tm_armory.armor.chain_crafted.leg_left.name": "%s Left Chainmail Pants",
     "miapi.module.tm_armory.armor.chain_crafted.leg_left.description": "A Chainmail pant protecting your Left Leg",
-
     "miapi.module.tm_armory.armor.chain_crafted.leg_right": "Right Chainmail Pants",
     "miapi.module.tm_armory.armor.chain_crafted.leg_right.name": "%s Right Chainmail Pants",
     "miapi.module.tm_armory.armor.chain_crafted.leg_right.description": "A Chainmail pant protecting your Right Leg",
-
     "miapi.module.tm_armory.armor.chain_crafted.belt": "Chainmail Belt",
     "miapi.module.tm_armory.armor.chain_crafted.belt.name": "%s Chainmail Leggings",
     "miapi.module.tm_armory.armor.chain_crafted.belt.description": "A piece of Chainmail to protect your underbelly and keep your Leggings high",
-
     "miapi.module.tm_armory.armor.chain_crafted.arm_left": "Left Chainmail-Sleeve",
     "miapi.module.tm_armory.armor.chain_crafted.arm_left.name": "%s Left Chainmail-Sleeve",
     "miapi.module.tm_armory.armor.chain_crafted.arm_left.description": "A piece of Chainmail to protect your Left Arm",
-
     "miapi.module.tm_armory.armor.chain_crafted.arm_right": "Right Chainmail-Sleeve",
     "miapi.module.tm_armory.armor.chain_crafted.arm_right.name": "%s Right Chainmail-Sleeve",
     "miapi.module.tm_armory.armor.chain_crafted.arm_right.description": "A piece of Chainmail to protect your Right Arm",
-
     "miapi.module.tm_armory.armor.chain_crafted.front_chest": "Chainmail Chestplate",
     "miapi.module.tm_armory.armor.chain_crafted.front_chest.name": "%s Chainmail Chestplate",
     "miapi.module.tm_armory.armor.chain_crafted.front_chest.description": "A piece of Chainmail to protect your Chest",
-
     "miapi.module.tm_armory.armor.chain_crafted.back_chest": "Chainmail Backplate",
     "miapi.module.tm_armory.armor.chain_crafted.back_chest.name": "%s Chainmail Backplate",
     "miapi.module.tm_armory.armor.chain_crafted.back_chest.description": "A piece of Chainmail to protect your Back",
-
     "miapi.module.tm_armory.armor.chain_crafted.helmet": "Chainmail Helmet",
     "miapi.module.tm_armory.armor.chain_crafted.helmet.name": "%s Chain Helmet",
     "miapi.module.tm_armory.armor.chain_crafted.helmet.description": "A Chainmail Helmet to protect your Head",
-
-
-
     "miapi.module.tm_armory.armor.scuba.boot_left": "Left Scuba Boot",
     "miapi.module.tm_armory.armor.scuba.boot_left.name": "%s Scuba Boots",
     "miapi.module.tm_armory.armor.scuba.boot_left.description": "The Left Scuba Boot for Swimming",
-
     "miapi.module.tm_armory.armor.scuba.boot_right": "Right Scuba Boot",
     "miapi.module.tm_armory.armor.scuba.boot_right.name": "%s Scuba Boots",
     "miapi.module.tm_armory.armor.scuba.boot_right.description": "The Right Scuba Boot for Swimming",
-
     "miapi.module.tm_armory.armor.scuba.leg_left": "Left Scuba Pants",
     "miapi.module.tm_armory.armor.scuba.leg_left.name": "%s Left Scuba Pants",
     "miapi.module.tm_armory.armor.scuba.leg_left.description": "A Scuba Leg for Swimming",
-
     "miapi.module.tm_armory.armor.scuba.leg_right": "Right Scuba Pants",
     "miapi.module.tm_armory.armor.scuba.leg_right.name": "%s Right Scuba Pants",
     "miapi.module.tm_armory.armor.scuba.leg_right.description": "A Scuba Leg for Swimming",
-
     "miapi.module.tm_armory.armor.scuba.belt": "Scuba Belt",
     "miapi.module.tm_armory.armor.scuba.belt.name": "%s Scuba Leggings",
     "miapi.module.tm_armory.armor.scuba.belt.description": "A Scuba Belt to allow for faster Swimming",
-
     "miapi.module.tm_armory.armor.scuba.arm_left": "Left Scuba-Sleeve",
     "miapi.module.tm_armory.armor.scuba.arm_left.name": "%s Left Scuba-Sleeve",
     "miapi.module.tm_armory.armor.scuba.arm_left.description": "A Left Scuba Arm",
-
     "miapi.module.tm_armory.armor.scuba.arm_right": "Right Scuba-Sleeve",
     "miapi.module.tm_armory.armor.scuba.arm_right.name": "%s Right Scuba-Sleeve",
     "miapi.module.tm_armory.armor.scuba.arm_right.description": "A Right Scuba Arm",
-
     "miapi.module.tm_armory.armor.scuba.front_chest": "Scuba Chestplate",
     "miapi.module.tm_armory.armor.scuba.front_chest.name": "%s Scuba Chestplate",
     "miapi.module.tm_armory.armor.scuba.front_chest.description": "Scuba Suit Chestplate to improve Swimming Speed",
-
     "miapi.module.tm_armory.armor.scuba.back_chest": "Scuba Backplate",
     "miapi.module.tm_armory.armor.scuba.back_chest.name": "%s Scuba Backplate",
     "miapi.module.tm_armory.armor.scuba.back_chest.description": "Scuba Backplate to improve Swimming Speed",
-
     "miapi.module.tm_armory.armor.scuba.helmet": "Scuba Helmet",
     "miapi.module.tm_armory.armor.scuba.helmet.name": "%s Scuba Helmet",
     "miapi.module.tm_armory.armor.scuba.helmet.description": "A Scuba Helmet to improve Swimming Speed",
-
-
-
     "miapi.module.tm_armory.armor.chain.boot_left": "Old Left Chainmail Boot",
     "miapi.module.tm_armory.armor.chain.boot_left.name": "%s Chainmail Boots",
     "miapi.module.tm_armory.armor.chain.boot_left.description": "The Left Boot protecting your Left Foot",
-
     "miapi.module.tm_armory.armor.chain.boot_right": "Old Right Chainmail Boot",
     "miapi.module.tm_armory.armor.chain.boot_right.name": "%s Chainmail Boots",
     "miapi.module.tm_armory.armor.chain.boot_right.description": "A Chainmail Boot protecting your Right Foot",
-
     "miapi.module.tm_armory.armor.chain.leg_left": "Old Left Chainmail Pants",
     "miapi.module.tm_armory.armor.chain.leg_left.name": "%s Left Chainmail Pants",
     "miapi.module.tm_armory.armor.chain.leg_left.description": "A Chainmail pant protecting your Left Leg",
-
     "miapi.module.tm_armory.armor.chain.leg_right": "Old Right Chainmail Pants",
     "miapi.module.tm_armory.armor.chain.leg_right.name": "%s Right Chainmail Pants",
     "miapi.module.tm_armory.armor.chain.leg_right.description": "A Chainmail pant protecting your Right Leg",
-
     "miapi.module.tm_armory.armor.chain.belt": "Old Chainmail Belt",
     "miapi.module.tm_armory.armor.chain.belt.name": "%s Chainmail Leggings",
     "miapi.module.tm_armory.armor.chain.belt.description": "A piece of Chainmail to protect your underbelly and keep your Leggings high",
-
     "miapi.module.tm_armory.armor.chain.arm_left": "Old Left Chainmail-Sleeve",
     "miapi.module.tm_armory.armor.chain.arm_left.name": "%s Left Chainmail-Sleeve",
     "miapi.module.tm_armory.armor.chain.arm_left.description": "A piece of Chainmail to protect your Left Arm",
-
     "miapi.module.tm_armory.armor.chain.arm_right": "Old Right Chainmail-Sleeve",
     "miapi.module.tm_armory.armor.chain.arm_right.name": "%s Right Chainmail-Sleeve",
     "miapi.module.tm_armory.armor.chain.arm_right.description": "A piece of Chainmail to protect your Right Arm",
-
     "miapi.module.tm_armory.armor.chain.front_chest": "Old Chainmail Chestplate",
     "miapi.module.tm_armory.armor.chain.front_chest.name": "%s Chainmail Chestplate",
     "miapi.module.tm_armory.armor.chain.front_chest.description": "A piece of Chainmail to protect your Chest",
-
     "miapi.module.tm_armory.armor.chain.back_chest": "Old Chainmail Backplate",
     "miapi.module.tm_armory.armor.chain.back_chest.name": "%s Chainmail Backplate",
     "miapi.module.tm_armory.armor.chain.back_chest.description": "A piece of Chainmail to protect your Back",
-
     "miapi.module.tm_armory.armor.chain.helmet": "Old Chainmail Helmet",
     "miapi.module.tm_armory.armor.chain.helmet.name": "%s Chain Helmet",
     "miapi.module.tm_armory.armor.chain.helmet.description": "A Chainmail Helmet to protect your Head",
-
-    
-
     "miapi.module.tm_armory.armor.wing.boot_left": "Left Flap",
     "miapi.module.tm_armory.armor.wing.boot_left.name": "%s Flaps",
     "miapi.module.tm_armory.armor.wing.boot_left.description": "A Flap on your Left Foot to have better Turning",
-
     "miapi.module.tm_armory.armor.wing.boot_right": "Right Flap",
     "miapi.module.tm_armory.armor.wing.boot_right.name": "%s Flaps",
     "miapi.module.tm_armory.armor.wing.boot_right.description": "A Flap on your Right Foot to have better Turning",
-
     "miapi.module.tm_armory.armor.wing.arm_left": "Left Arm Winglet",
     "miapi.module.tm_armory.armor.wing.arm_left.name": "%s Left Arm Winglet",
     "miapi.module.tm_armory.armor.wing.arm_left.description": "A Small Wing to stabilise Flight",
-
     "miapi.module.tm_armory.armor.wing.arm_right": "Right Arm Winglet",
     "miapi.module.tm_armory.armor.wing.arm_right.name": "%s Right Arm Winglet",
     "miapi.module.tm_armory.armor.wing.arm_right.description": "A Small Wing to stabilise Flight",
-
     "miapi.module.tm_armory.armor.wing.elytra_backplate": "Elytra Attachment",
     "miapi.module.tm_armory.armor.wing.elytra_backplate.name": "Elytra Attachment",
     "miapi.module.tm_armory.armor.wing.elytra_backplate.description": "A Attachment for Wings to enable Flight",
-
     "miapi.module.tm_armory.armor.wing.left": "Left Wing",
     "miapi.module.tm_armory.armor.wing.left.name": "%s Left Wing",
     "miapi.module.tm_armory.armor.wing.left.description": "A Left Wing to enable Flight",
-
     "miapi.module.tm_armory.armor.wing.right": "Right Wing",
     "miapi.module.tm_armory.armor.wing.right.name": "%s Right Arm Wing",
     "miapi.module.tm_armory.armor.wing.right.description": "A Right Wing to enable Flight",
-
     "miapi.module.tm_armory.armor.wing.leg_left": "Left Panels",
     "miapi.module.tm_armory.armor.wing.leg_left.name": "%s Left Panels",
     "miapi.module.tm_armory.armor.wing.leg_left.description": "A Large Panel to stabilise Gliding with Wings",
-
     "miapi.module.tm_armory.armor.wing.leg_right": "Right Panels",
     "miapi.module.tm_armory.armor.wing.leg_right.name": "%s Right Panels",
     "miapi.module.tm_armory.armor.wing.leg_right.description": "A Large Panel to stabilise Gliding with Wings",
-
     "miapi.modular_elytra": "%s Elytra",
     "miapi:armored_elytra": "%s Armored Elytra",
-
     "miapi.module.tm_armory.armor.socket.belt": "Socket Belt",
     "miapi.module.tm_armory.armor.socket.belt.name": "%s Socket Belt",
     "miapi.module.tm_armory.armor.socket.belt.description": "A Belt capable of holding a Gemstone",
-
     "miapi.module.tm_armory.armor.socket.front_chest": "Socket Chestplate",
     "miapi.module.tm_armory.armor.socket.front_chest.name": "%s Socket Chestplate",
     "miapi.module.tm_armory.armor.socket.front_chest.description": "A Chestplate capable of holding a Gemstone",
-
     "miapi.module.tm_armory.armor.socket.back_chest": "Socket Backplate",
     "miapi.module.tm_armory.armor.socket.back_chest.name": "%s Socket Backplate",
     "miapi.module.tm_armory.armor.socket.back_chest.description": "A Backplate capable of holding a Gemstone",
-
     "miapi.module.tm_armory.armor.socket.helmet": "Socket Helmet",
     "miapi.module.tm_armory.armor.socket.helmet.name": "%s Socket Helmet",
     "miapi.module.tm_armory.armor.socket.helmet.description": "A Helmet capable of holding a Gemstone",
-
     "miapi.module.tm_armory.large_gemstone": "Large Gemstone",
     "miapi.module.tm_armory.gems.large_gemstone.name": "Large Gemstone",
     "miapi.module.tm_armory.gems.large_gemstone.description": "A large sized Gemstone",
-
     "miapi.module.tm_armory.medium_gemstone": "Gemstone",
     "miapi.module.tm_armory.medium_gemstone.name": "Gemstone",
     "miapi.module.tm_armory.medium_gemstone.description": "A medium sized Gemstone",
-
     "miapi.module.tm_armory.small_gemstone": "Small Gemstone",
     "miapi.module.tm_armory.small_gemstone.name": "Small Gemstone",
     "miapi.module.tm_armory.small_gemstone.description": "A small sized Gemstone",
-
     "miapi.module.tm_armory.armor.hats.crown": "Crown",
     "miapi.module.tm_armory.armor.hats.crown.name": "%s Crown",
     "miapi.module.tm_armory.armor.hats.crown.description": "A decorative Crown",
-
     "miapi.module.tm_armory.armor.hats.horns": "Horns",
     "miapi.module.tm_armory.armor.hats.horns.description": "Some decorative Horns for your Helmet",
-
     "miapi.module.tm_armory.armor.hats.ears": "Ears",
     "miapi.module.tm_armory.armor.hats.ears.description": "Some decorative Ears",
-
     "miapi.skin.tm_armory.name.horns_bent": "Forward Facing Horns",
     "miapi.skin.tm_armory.name.horns_front": "Front Horns",
     "miapi.skin.tm_armory.name.horns_small": "Smaller Horns",
     "miapi.skin.tm_armory.name.horns_unicorn": "Unicorn",
     "miapi.skin.tm_armory.name.ears_round": "Round Ears",
-
-    "miapi.skin.tm_armory.name.wizzard": "Witch Hat (Temporary)",
-
     "miapi.skin.tm_armory.name.heavy_helm_low_eyes": "Lower Eye Holes",
-
     "miapi.skin.tm_armory.name.techno_crown": "Technoblade`s Crown",
     "miapi.skin.techno_crown.name": "%s Crown",
     "miapi.skin.techno_crown.description": "Technoblades Crown",
-
     "miapi.module.tm_armory.armor.hats.banner": "Banner Cosmetic",
     "miapi.module.tm_armory.armor.hats.banner.name": "%s Banner",
     "miapi.module.tm_armory.armor.hats.banner.description": "Large Banner on your Head\nProudly displaying your alignment",
-
     "miapi.module.tm_armory.armor.chest.banner": "Banner Cosmetic",
     "miapi.module.tm_armory.armor.chest.banner.name": "%s Banner",
     "miapi.module.tm_armory.armor.chest.banner.description": "Chest Banner Decorative Piece\nGreat for displaying Art or Flags",
-
     "miapi.hats.crown.technocrown.lore": "Technoblade Never Dies",
-
     "miapi.slot.gemstone.small": "Small Gemstone",
     "miapi.slot.gemstone.medium": "Medium Gemstone",
     "miapi.slot.gemstone.large": "Large Gemstone",
-
     "miapi.tm_armory.gemstone_armor.armoring": "Armoring",
     "miapi.tm_armory.gemstone_armor.armoring.description": "Applies Resistance effect on wearer when hit by an Entity",
     "miapi.tm_armory.gemstone_armor.quickening": "Quickening",
     "miapi.tm_armory.gemstone_armor.quickening.description": "Applies Speed effect on wearer when hit by an Entity",
     "miapi.tm_armory.gemstone_armor.sneaking": "Sneaking Speed Increase",
     "miapi.tm_armory.gemstone_armor.sneaking.description": "Increases Sneaking Speed",
-
     "enchantment.minecraft.projectile_protection.desc": "Reduces damage from projectiles such as arrows and fire balls.",
     "enchantment.minecraft.feather_falling.desc": "Reduces fall damage and ender pearl teleportation damage.",
     "enchantment.minecraft.depth_strider.desc": "Increases movement speed while underwater.",
     "enchantment.minecraft.unbreaking.desc": "Causes the tool to lose durability at a slower rate.",
     "enchantment.minecraft.fire_protection.desc": "Reduces the effects of fire damage. Also reduces the burn time when set on fire.",
     "enchantment.minecraft.blast_protection.desc": "Reduces damage from explosions and explosion knockback."
-    
 }
